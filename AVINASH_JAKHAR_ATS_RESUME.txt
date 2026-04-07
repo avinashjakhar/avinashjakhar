@@ -1,0 +1,43 @@
+AVINASH JAKHAR
+Full-Stack & Blockchain Developer
+
++91-9306353089 | avinashjakhar84@gmail.com | linkedin.com/in/avinash-838257252 | github.com/avinashjakhar
+
+PROFESSIONAL SUMMARY
+Blockchain Technology undergraduate at Chandigarh Engineering College with 18 months of hands-on experience in full-stack development and cybersecurity. Proficient in Python, JavaScript, Solidity, and Django. Deployed production ERC-20 smart contract on Ethereum Sepolia and built full-stack job tracking application reducing manual work by 3 hours weekly. AWS certified with cybersecurity and identity management expertise.
+
+TECHNICAL SKILLS
+Languages & Frameworks: Python 3, JavaScript, Solidity, Django 4.2, React 18, C, C++, HTML5, CSS3
+Blockchain & Web3: Ethereum, ERC-20 Standard, Hardhat, OpenZeppelin, Smart Contracts, DApp Development, Web3.js
+Databases & Tools: SQLite, PostgreSQL, REST APIs, Git, GitHub, VS Code, Linux
+Cybersecurity: Network Vulnerability Assessment, Identity and Access Management, NIST Framework, Cisco NetAcad
+Cloud & DevOps: AWS Solutions Architecture, JWT Authentication, CORS Protection, SQL Injection Prevention
+
+PROFESSIONAL EXPERIENCE
+Cybersecurity Intern, Cisco Networking Academy | Remote | June 2024 - August 2024
+• Detected and documented 15 critical network vulnerabilities across 3 simulated enterprise environments using Cisco Packet Tracer
+• Analyzed 10+ live attack scenarios, strengthening security protocols for intrusion detection and access control systems
+• Authored formal security assessment report with 5 prioritized risk mitigation strategies adopted as reference material for cyber team
+
+Software Engineering Simulation, Electronic Arts (EA) | Virtual Program | February 2026
+• Proposed and documented new character class feature for EA game codebase using object-oriented design and UML modeling
+• Refactored C++ module eliminating 20 percent redundant code and improving readability to meet enterprise standards
+• Delivered Agile sprint deliverable covering feature scope, 8 edge cases, and comprehensive unit-testing strategy
+
+FEATURED PROJECTS
+TrackHire - Full-Stack Job Application Tracker | Python 3, Django 4.2, React, SQLite | github.com/avinashjakhar/trackhire
+• Designed and deployed production-ready full-stack application with 15 RESTful API endpoints supporting complete 5-stage job pipeline
+• Implemented JWT authentication, role-based access control, and real-time analytics dashboard reducing manual tracking by 3 hours per week
+• Shipped fully responsive interface supporting mobile, tablet, and desktop using Django ORM and React hooks
+
+AVI Token - ERC-20 Smart Contract | Solidity, Hardhat, OpenZeppelin, Ethereum Sepolia | github.com/avinashjakhar/avi-token
+• Designed and deployed fully audited ERC-20 token on Ethereum Sepolia testnet achieving 100 percent test coverage with 11 test cases
+• Secured contract using OpenZeppelin standards implementing minting and burning functions with 60 percent UX improvement
+• Developed JavaScript frontend enabling wallet connection, real-time token transfers, and live contract state reads via Web3.js
+
+CERTIFICATIONS & EDUCATION
+AWS Solutions Architecture Job Simulation | AI Technical Foundation | Qualcomm Academy | EA Software Engineering Simulation
+Responsive Web Design | freeCodeCamp | Full Stack Certification | JavaScript Advanced Concepts
+
+B.Tech, Computer Engineering (Blockchain Specialization) | Chandigarh Engineering College | 2022 - Present | Mohali, India
+High School Diploma - Physics, Chemistry, Mathematics | Saraswati Vidya Mandir Senior Secondary School | May 2021 | Narnaul, Haryana
