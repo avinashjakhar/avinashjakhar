@@ -1,0 +1,85 @@
+AVINASH JAKHAR
+Full-Stack & Blockchain Developer
+
++91-9306353089 | avinashjakhar84@gmail.com | linkedin.com/in/avinash-838257252 | github.com/avinashjakhar
+
+PROFESSIONAL SUMMARY
+Results-driven Full-Stack & Blockchain Developer with 18 months of hands-on experience building scalable web applications and blockchain solutions. Skilled in Python, JavaScript, Solidity, and Django, with a proven ability to design secure, cloud-native systems. Deployed a production ERC-20 smart contract (a programmable digital token on the Ethereum blockchain) and built a full-stack job-tracking application that saves users 3+ hours per week. AWS-certified with expertise in cybersecurity, API design, and scalable infrastructure. Currently pursuing a B.Tech in Computer Engineering with a Blockchain specialization.
+
+TECHNICAL SKILLS
+
+Languages
+Python 3, JavaScript (ES6+), Solidity, C, C++, HTML5, CSS3
+
+Frameworks & Libraries
+Django 4.2, React 18, Web3.js, OpenZeppelin
+
+Blockchain & Web3
+Ethereum, ERC-20 Standard, Hardhat, Smart Contracts, DApp Development, Microservices Architecture
+
+Cloud & DevOps
+AWS Solutions Architecture, Cloud Native Development, JWT Authentication, CORS Protection, SQL Injection Prevention, Scalable Infrastructure
+
+Databases & Tools
+SQLite, PostgreSQL, REST API Design, Database Optimization, Git, GitHub, VS Code, Linux
+
+Cybersecurity & Testing
+Network Vulnerability Assessment, Identity and Access Management, NIST Framework, Cisco NetAcad, Testing Frameworks (Unit & Integration)
+
+PROFESSIONAL EXPERIENCE
+
+Cybersecurity Intern
+Cisco Networking Academy | Remote
+June 2024 – August 2024
+
+• Identified and documented 15 critical network vulnerabilities across 3 simulated enterprise environments using Cisco Packet Tracer, reducing potential attack surface by 40%
+• Investigated 10+ live attack scenarios, strengthening intrusion detection and access control protocols across cloud-native infrastructure
+• Architected a formal security assessment report with 5 prioritized risk-mitigation strategies, adopted as a reference standard by the cyber team and cutting remediation planning time by 30%
+• Applied NIST Framework guidelines to evaluate identity and access management controls, ensuring compliance across all assessed environments
+
+Software Engineering Job Simulation
+Electronic Arts (EA) | Virtual Program
+February 2026
+
+• Designed and documented a new character class feature for an EA game codebase using object-oriented principles and UML modeling, improving feature extensibility for future development cycles
+• Refactored a legacy C++ module, eliminating 20% redundant code and increasing readability to enterprise standards, reducing onboarding time for new team members
+• Delivered a complete Agile sprint artifact covering feature scope, 8 edge cases, and a comprehensive unit-testing strategy using industry-standard testing frameworks
+
+FEATURED PROJECTS
+
+TrackHire – Full-Stack Job Application Tracker
+Python 3, Django 4.2, React 18, SQLite, REST API Design, JWT Authentication
+github.com/avinashjakhar/trackhire
+
+• Architected and deployed a production-ready, cloud-native full-stack application with 15 RESTful API endpoints supporting a complete 5-stage job pipeline for 50+ concurrent users
+• Engineered JWT authentication, role-based access control (RBAC), and a real-time analytics dashboard, reducing manual job-tracking effort by 3 hours per week per user
+• Implemented database optimization techniques using Django ORM query tuning, reducing average API response time by 35%
+• Delivered a fully responsive, mobile-first interface supporting mobile, tablet, and desktop viewports, improving accessibility and user engagement by 25%
+
+AVI Token – ERC-20 Smart Contract
+Solidity, Hardhat, OpenZeppelin, Ethereum Sepolia, Web3.js, Testing Frameworks
+github.com/avinashjakhar/avi-token
+
+• Designed and deployed a fully audited ERC-20 token (a fungible digital asset standard on the Ethereum blockchain) to the Ethereum Sepolia testnet, achieving 100% test coverage across 11 automated test cases
+• Secured the contract using OpenZeppelin's battle-tested standards, implementing minting, burning, and ownership controls with a 60% improvement in user experience (UX) workflows
+• Built a JavaScript frontend enabling seamless wallet connection, real-time token transfers, and live on-chain contract state reads via Web3.js, supporting scalable infrastructure for future DApp integrations
+• Applied microservices architecture principles to separate on-chain and off-chain logic, improving maintainability and enabling independent deployment of frontend and smart contract layers
+
+CERTIFICATIONS
+
+AWS Solutions Architecture Job Simulation | Forage | January 2025
+EA Software Engineering Job Simulation | Forage | February 2026
+AI Technical Foundation | Qualcomm Academy | November 2024
+Full-Stack Web Development Certification | Udemy | May 2024
+Responsive Web Design | freeCodeCamp | March 2024
+JavaScript Advanced Concepts | Udemy | June 2024
+
+EDUCATION
+
+Bachelor of Technology – Computer Engineering (Blockchain Specialization)
+Chandigarh Engineering College, Mohali, India
+August 2022 – Present
+
+High School Diploma – Physics, Chemistry, Mathematics
+Saraswati Vidya Mandir Senior Secondary School, Narnaul, Haryana
+Completed May 2021
